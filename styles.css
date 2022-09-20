@@ -1,0 +1,25 @@
+body {
+    background-color:rgb(255, 192, 224)
+
+
+}
+h1 {
+    font-size: 150px;
+}
+
+p {
+    font-size: 32px;
+}    
+.topline{
+    color: purple;
+    font-size: 100px;
+    text-align: center;
+    font-family: cursive;
+}
+.whatever {
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: center;
+    color:blueviolet
+    
+}
